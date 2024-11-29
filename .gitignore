@@ -3,3 +3,8 @@
 /Library/.venv/
 /Todo/.venv/
 /Blog/.venv/
+/Blog/.env/
+__pycache__/
+/Blog/db.sqlite3
+/Library/db.sqlite3
+/Todo/db.sqlite3
